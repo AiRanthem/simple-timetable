@@ -1,0 +1,1 @@
+<view class="button-sp-area"><button type="primary" plain="true" data-event-opts="{{[['tap',[['showRichAlert']]]]}}" bindtap="__e">点击显示弹窗</button></view>
